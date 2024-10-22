@@ -55,4 +55,4 @@ This script builds an interactive dashboard using Dash to visualize automobile s
 
 
 # Selected Screenshots
-[Bar Chart](Screenshots/Bar_Chart.png)
+![Bar Chart](Screenshots/Bar_Chart.png)
