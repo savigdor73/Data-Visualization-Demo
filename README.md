@@ -56,3 +56,5 @@ This script builds an interactive dashboard using Dash to visualize automobile s
 
 # Selected Screenshots
 ![Bar Chart](Screenshots/Bar_Chart.png)
+![Pie Chart](Screenshots/Pie_2.png)
+![Recession Reports Graphs](Screenshots/RecessionReportgraphs.png)
