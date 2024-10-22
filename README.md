@@ -52,3 +52,7 @@ This script builds an interactive dashboard using Dash to visualize automobile s
    ```
 2. Run `Module5-P1-FinalProject.py` to generate various plots analyzing automobile sales data.
 3. Run `Module5-P2-FinalProject.py` to launch the interactive dashboard. Access the dashboard by navigating to `http://127.0.0.1:8050/` in your browser.
+
+
+# Selected Screenshots
+[Bar Chart](screenshots/Bar_Chart.png)
